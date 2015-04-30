@@ -1,0 +1,25 @@
+{
+  "name": "mars-robot",
+  "version": "1.0.0",
+  "description": "A JavaScript exercise by Red Badger",
+  "main": "app.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adjohnston/mars-robot"
+  },
+  "author": "Adam Johnston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adjohnston/mars-robot/issues"
+  },
+  "homepage": "https://github.com/adjohnston/mars-robot"
+}
